@@ -1,0 +1,25 @@
+1. Change Uppear/Lower case string:
+      i. Ctrl + Shift + X : Uppear Case
+     ii. Ctrl + Shift + Y : Lower Case  
+     
+2. Java print function: sysout and Ctrl + Space
+ 
+3. Create main() method: main and Ctrl + Space-select 1st one
+ 
+4. Add try-catch block to piece of code: Alt + Shift + Z
+ 
+5: Optimize(Import/Remove) Imort: Ctrl + Shift + O
+
+6. Renamed Param/Method: Alt + Shift + R
+
+7. Extract(create) Method: Alt + Shift + M
+
+8. Delete Line: Ctrl + D
+
+9. View hierarchy: 
+      i. For Method: Ctrl + Alt + H
+     ii. For Class: F4
+
+10. Jump to begining/end of parenthesis: Ctrl + Shift + P
+
+11. Increase/Decrease font size: Ctrl + "+"/"-"
